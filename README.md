@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nicola</h1>
-<h3 align="center">An enthusiasitc junior full stack, interested in frontend, from Wales</h3>
+<h3 align="center">An enthusiastic junior full stack, from Wales</h3>
 
 - 🔭 I’m currently working on [Pocket Zoo](https://github.com/Tobe-Nwosu/Pocket-Zoo2)
 
