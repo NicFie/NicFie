@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nicola</h1>
 <h3 align="center">An enthusiastic junior full stack, from Wales</h3>
 
-- 🔭 I’m currently working on [Pocket Zoo](https://github.com/Tobe-Nwosu/Pocket-Zoo2)
+- 🔭 I’m currently working on [Pocket Zoo](https://github.com/Tobe-Nwosu/Pocket-Zoo2) and [Teki](https://github.com/NicFie/Teki)
 
 - 🌱 I’m currently learning **Ruby on Rails, advanced HTML, CSS and Javascript**
 
